@@ -10,11 +10,11 @@ This project provisions an AWS EC2 instance using Terraform and automatically in
 
 The infrastructure includes:
 
-- ✅ AWS Provider Configuration  
-- ✅ EC2 Instance  
-- ✅ Security Group (HTTP + SSH)  
-- ✅ User Data Automation  
-- ✅ Output for Public IP  
+- AWS Provider Configuration  
+- EC2 Instance  
+- Security Group (HTTP + SSH)  
+- User Data Automation  
+- Output for Public IP  
 
 ---
 
@@ -128,7 +128,7 @@ Learning Terraform & AWS
 
 ---
 
-⭐ If you like this project, feel free to star it on GitHub!
+
 
 
 
