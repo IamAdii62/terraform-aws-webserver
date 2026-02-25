@@ -92,7 +92,6 @@ terraform plan
 terraform apply
 <img width="1412" height="964" alt="image" src="https://github.com/user-attachments/assets/0b6e798b-b9ba-439f-99b4-fa2322ebcad2" />
 
-<img width="1412" height="964" alt="image" src="https://github.com/user-attachments/assets/27fbda14-f701-40ac-81c6-679faa53c213" />
 
 
 Type `yes` when prompted.
@@ -117,6 +116,7 @@ You will see the Nginx web page deployed via Terraform.
 ## To Destroy Infrastructure
 
 terraform destroy
+<img width="800" height="570" alt="image" src="https://github.com/user-attachments/assets/06990bc2-578f-4294-81e7-1727650cd7da" />
 
 
 ---
@@ -141,6 +141,7 @@ DevOps Enthusiast
 Learning Terraform & AWS
 
 ---
+
 
 
 
