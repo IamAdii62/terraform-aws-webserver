@@ -38,6 +38,8 @@ terraform-ec2-automation/
 ├── outputs.tf # Output values (Public IP)
 ├── README.md # Project documentation
 
+<img width="1881" height="217" alt="image" src="https://github.com/user-attachments/assets/bd3156b2-a006-4e42-a526-8cc3e3c49de2" />
+
 
 ---
 
@@ -71,6 +73,8 @@ Displays Public IP after deployment
 ### Step 1: Initialize Terraform
 
 terraform init
+<img width="1507" height="955" alt="image" src="https://github.com/user-attachments/assets/92da3238-55d5-4e96-b9cb-37f42bf2ead2" />
+
 
 ### Step 2: Validate Configuration
 
@@ -80,10 +84,16 @@ terraform validate
 ### Step 3: Preview Infrastructure Plan
 
 terraform plan
+<img width="1376" height="930" alt="image" src="https://github.com/user-attachments/assets/3046b194-c377-4079-99a0-58131e4e739c" />
+
 
 ### Step 4: Deploy Infrastructure
 
 terraform apply
+<img width="1412" height="964" alt="image" src="https://github.com/user-attachments/assets/0b6e798b-b9ba-439f-99b4-fa2322ebcad2" />
+
+<img width="1412" height="964" alt="image" src="https://github.com/user-attachments/assets/27fbda14-f701-40ac-81c6-679faa53c213" />
+
 
 Type `yes` when prompted.
 
@@ -92,8 +102,12 @@ Type `yes` when prompted.
 ## Access the Web Server
 
 After successful deployment:
+<img width="1908" height="901" alt="image" src="https://github.com/user-attachments/assets/9e88d29e-3517-4631-8c53-eae238b7381c" />
+
 
 http://<Public-IP>
+
+<img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/95edee38-5ac9-411b-9153-ad6a30163d9e" />
 
 
 You will see the Nginx web page deployed via Terraform.
@@ -127,6 +141,7 @@ DevOps Enthusiast
 Learning Terraform & AWS
 
 ---
+
 
 
 
